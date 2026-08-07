@@ -1,4 +1,27 @@
 # news-headline-fetcher
+# 📰 PyNews — Headline Fetcher
+
+## About
+
+PyNews is a desktop news application built with **Python** and **CustomTkinter** that delivers the latest headlines through the **NewsAPI**. It provides a clean, modern interface for searching news by keyword, browsing top headlines by category, viewing article previews with thumbnails, and saving favorite articles for quick access. The application uses background threading to keep the interface responsive while fetching news in real time.
+
+## Description
+
+A modern Python desktop application that fetches real-time news headlines using the NewsAPI. Users can search for articles, filter by category, switch between dark and light themes, view article previews with images, open full stories in their browser, and save favorites locally using JSON storage.
+
+## ✨ Features
+
+* 🔍 Search news articles using keywords
+* 📰 Browse the latest top headlines
+* 🗂 Filter news by category
+* 🖼 Display article thumbnails (when available)
+* ⭐ Save favorite articles locally
+* 🔗 Open full articles in the default web browser
+* 🌗 Toggle between Dark and Light themes
+* ⚡ Responsive UI with background threading
+* 💾 Local JSON-based favorites storage
+* 🎨 Modern interface built with CustomTkinter
+
 
 
 <img width="1187" height="1005" alt="py-img1" src="https://github.com/user-attachments/assets/176c0423-21cc-4fc0-99f2-7d7ce1d836b1" />
